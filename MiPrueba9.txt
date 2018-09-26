@@ -1,0 +1,12 @@
+q0,q1,q2,q3,q4,q5
+a,b
+q0
+q0
+q0,lmd=>q1,q3
+q1,a=>q2
+q1,lmd=>q5
+q2,a=>q1
+q3,b=>q4
+q3,lmd=>q5
+q4,b=>q3
+q5,lmd=>q0
